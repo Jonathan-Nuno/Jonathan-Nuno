@@ -1,4 +1,4 @@
-![Logo Banner](github-banner.png)
+
 
 # Welcome!
 
