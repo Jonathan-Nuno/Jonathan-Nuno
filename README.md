@@ -1,8 +1,8 @@
 
 
-# Welcome!
+# Hey There!
 
-I'm a Full-Stack Dev with a preference for frontend and I'm 2 years in so far.
-Currently working on minor projects with friends and doing from freelance dev work on the side.
-My old portfolio is below along with my LinkedIn. Looking to join open source projects!
+Software Engineer based in Atlanta, Georgia
+
+Frontend-leaning full-stack engineer. I've spent 4+ years building and maintaining production web applications, owning both the UI users see and the systems that power it.
 [portfolio](https://Jonathan-Nuno.dev/) and [LinkedIn](https://www.linkedin.com/in/jonathannuno/).
